@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "748683607513",
+    "firebase_url": "https://codam-6f5ba-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "codam-6f5ba",
+    "storage_bucket": "codam-6f5ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748683607513:android:b69160d71b3dc2a2856dc8",
+        "android_client_info": {
+          "package_name": "edu.uga.cs.checkers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748683607513-ddqp3fk87cr14fl9bpminqfttmfi5i8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uga.cs.checkers",
+            "certificate_hash": "b39258267c3318d9256a626fa9da478b9178d078"
+          }
+        },
+        {
+          "client_id": "748683607513-lkifhrckthpr7p264okorb8dlkh4dvip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uga.cs.checkers",
+            "certificate_hash": "5b8c8fed7fac3a5089c1eba70ab60d2cb2e4bf64"
+          }
+        },
+        {
+          "client_id": "748683607513-uhmje86hd0dc1simll16rt2nkhu4vd2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXcqT2o71mOvf6LSbDMcayUj1BTGhQXn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748683607513-uhmje86hd0dc1simll16rt2nkhu4vd2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
